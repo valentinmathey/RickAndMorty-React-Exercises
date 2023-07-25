@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+![React App - Google Chrome 2023-07-25 16-33-29](https://github.com/valentinmathey/RickAndMorty-React-Exercises/assets/108497495/6bbe0839-0d4c-4a4d-9fa1-71eeded27c23)
+
+# Getting Started with
+Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

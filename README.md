@@ -1,73 +1,37 @@
-![React App - Google Chrome 2023-07-25 16-33-29](https://github.com/valentinmathey/RickAndMorty-React-Exercises/assets/108497495/6bbe0839-0d4c-4a4d-9fa1-71eeded27c23)
+# 🦠 Proyecto de Rick and Morty - React
+¡Bienvenido al repositorio de mi proyecto de Rick and Morty! En este proyecto, desarrollé una aplicación web utilizando React, JavaScript, HTML, CSS y Bootstrap para interactuar con la API de Rick and Morty. El objetivo del proyecto es mostrar información sobre los personajes de la serie y permitir a los usuarios explorar y buscar detalles sobre sus personajes favoritos.
 
-# Getting Started with
-Create React App
+## 🎥 Apartado de Video
+![React App - Google Chrome 2023-07-25 16-33-29](https://github.com/valentinmathey/RickAndMorty-React-Exercises/assets/108497495/fc793449-f227-4591-a787-25c765a36f69)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📂Estructura del Proyecto
 
-## Available Scripts
+El proyecto está organizado de la siguiente manera:
 
-In the project directory, you can run:
+🌌 RickAndMorty-React-Exercises/src: Contiene todos los archivos y componentes principales del proyecto.
 
-### `npm start`
+    📁 components: Contiene todos los componentes de React utilizados en la aplicación.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    🌐 public: Contiene los archivos públicos, como el archivo index.html, utilizado como punto de entrada para la aplicación React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    🗂️ constants: Aquí se encuentran las constantes utilizadas en la aplicación, como URL de la API y valores predeterminados.
 
-### `npm test`
+    🎣 hooks: Contiene hooks personalizados utilizados en la aplicación para reutilizar lógica entre componentes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    🌐 services: Aquí se encuentran los servicios que interactúan con la API de Rick and Morty para obtener información sobre los personajes y sus detalles.
 
-### `npm run build`
+# 💻 Tech Stack:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🔹 React: Utilicé React como biblioteca principal para construir la interfaz de usuario y gestionar el estado de la aplicación.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🔹 JavaScript: Utilicé JavaScript para implementar la lógica y funcionalidad de la aplicación.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🔹 HTML y CSS: Utilicé HTML y CSS para estructurar y dar estilo a la aplicación.
 
-### `npm run eject`
+🔹 Bootstrap: Utilicé Bootstrap para mejorar el diseño y la experiencia de usuario en dispositivos móviles y de escritorio.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 🧑🏻‍💻 Autor:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<b>Valentin Mathey</b> | @valentinmathey
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/valentinmathey) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ValentinEzequielMathey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/valen.mathey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentin-mathey/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/valen_mathey) 

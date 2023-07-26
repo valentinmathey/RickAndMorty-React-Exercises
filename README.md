@@ -1,7 +1,7 @@
 # 🦠 Proyecto de Rick and Morty - React
 ¡Bienvenido al repositorio de mi proyecto de Rick and Morty! En este proyecto, desarrollé una aplicación web utilizando React, JavaScript, HTML, CSS y Bootstrap para interactuar con la API de Rick and Morty. El objetivo del proyecto es mostrar información sobre los personajes de la serie y permitir a los usuarios explorar y buscar detalles sobre sus personajes favoritos.
 
-## 🎥 Apartado de Video
+## 🎥 Vista Previa
 ![React App - Google Chrome 2023-07-25 16-33-29](https://github.com/valentinmathey/RickAndMorty-React-Exercises/assets/108497495/fc793449-f227-4591-a787-25c765a36f69)
 
 ## 📂Estructura del Proyecto

@@ -4,21 +4,21 @@
 ## 🎥 Vista Previa
 ![React App - Google Chrome 2023-07-25 16-33-29](https://github.com/valentinmathey/RickAndMorty-React-Exercises/assets/108497495/fc793449-f227-4591-a787-25c765a36f69)
 
-## 📂Estructura del Proyecto
+## 🗂️Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
 
-🌌 RickAndMorty-React-Exercises/src: Contiene todos los archivos y componentes principales del proyecto.
+📂 RickAndMorty-React-Exercises/src: Contiene todos los archivos y componentes principales del proyecto.
 
     📁 components: Contiene todos los componentes de React utilizados en la aplicación.
 
-    🌐 public: Contiene los archivos públicos, como el archivo index.html, utilizado como punto de entrada para la aplicación React.
+    📁 public: Contiene los archivos públicos, como el archivo index.html, utilizado como punto de entrada para la aplicación React.
 
-    🗂️ constants: Aquí se encuentran las constantes utilizadas en la aplicación, como URL de la API y valores predeterminados.
+    📁 constants: Aquí se encuentran las constantes utilizadas en la aplicación, como URL de la API y valores predeterminados.
 
-    🎣 hooks: Contiene hooks personalizados utilizados en la aplicación para reutilizar lógica entre componentes.
+    📁 hooks: Contiene hooks personalizados utilizados en la aplicación para reutilizar lógica entre componentes.
 
-    🌐 services: Aquí se encuentran los servicios que interactúan con la API de Rick and Morty para obtener información sobre los personajes y sus detalles.
+    📁 services: Aquí se encuentran los servicios que interactúan con la API de Rick and Morty para obtener información sobre los personajes y sus detalles.
 
 # 💻 Tech Stack:
 

@@ -21,14 +21,20 @@ El proyecto está organizado de la siguiente manera:
     📁 services: Aquí se encuentran los servicios que interactúan con la API de Rick and Morty para obtener información sobre los personajes y sus detalles.
 
 # 💻 Tech Stack:
-
-🔹 React: Utilicé React como biblioteca principal para construir la interfaz de usuario y gestionar el estado de la aplicación.
-
-🔹 JavaScript: Utilicé JavaScript para implementar la lógica y funcionalidad de la aplicación.
-
-🔹 HTML y CSS: Utilicé HTML y CSS para estructurar y dar estilo a la aplicación.
-
-🔹 Bootstrap: Utilicé Bootstrap para mejorar el diseño y la experiencia de usuario en dispositivos móviles y de escritorio.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+</div>
 
 # 🧑🏻‍💻 Autor:
 

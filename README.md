@@ -4,6 +4,23 @@
 ## 🎥 Vista Previa
 ![React App - Google Chrome 2023-07-25 16-33-29](https://github.com/valentinmathey/RickAndMorty-React-Exercises/assets/108497495/fc793449-f227-4591-a787-25c765a36f69)
 
+## 🛠️ Instalación
+Para utilizar este proyecto, sigue los siguientes pasos de instalación:
+
+1 - Clona este repositorio en tu máquina local:
+git clone https://github.com/valentinmathey/RickAndMorty-React-Exercises.git
+
+2 - Ingresa a la carpeta del proyecto:
+cd RickAndMorty-React-Exercises
+
+3 - Instala las dependencias del proyecto con npm:
+npm install
+
+4 - Inicia la aplicación:
+npm start
+
+¡Listo! Ahora deberías poder ver la aplicación en tu navegador web en la dirección http://localhost:3000/.
+
 ## 🗂️Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
